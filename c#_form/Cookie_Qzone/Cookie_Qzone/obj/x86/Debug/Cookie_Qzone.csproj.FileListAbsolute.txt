@@ -1,0 +1,12 @@
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\bin\Debug\Cookie_Qzone.exe
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\bin\Debug\Cookie_Qzone.pdb
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\bin\Debug\Newtonsoft.Json.dll
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\bin\Debug\Interop.MSScriptControl.dll
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\obj\x86\Debug\Cookie_Qzone.csprojResolveAssemblyReference.cache
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\obj\x86\Debug\Interop.MSScriptControl.dll
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\obj\x86\Debug\Cookie_Qzone.csproj.ResolveComReference.cache
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\obj\x86\Debug\Cookie_Qzone.Form1.resources
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\obj\x86\Debug\Cookie_Qzone.Properties.Resources.resources
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\obj\x86\Debug\Cookie_Qzone.csproj.GenerateResource.Cache
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\obj\x86\Debug\Cookie_Qzone.exe
+D:\studymyself\c#_form\Cookie_Qzone\Cookie_Qzone\obj\x86\Debug\Cookie_Qzone.pdb

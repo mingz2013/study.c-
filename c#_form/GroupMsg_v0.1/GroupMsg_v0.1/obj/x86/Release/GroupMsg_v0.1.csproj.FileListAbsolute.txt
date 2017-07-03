@@ -1,0 +1,14 @@
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\bin\Release\GroupMsg_v0.1.exe.config
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\obj\x86\Release\Interop.MSScriptControl.dll
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\obj\x86\Release\GroupMsg_v0.1.csproj.ResolveComReference.cache
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\bin\Release\GroupMsg_v0.1.exe
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\bin\Release\GroupMsg_v0.1.pdb
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\bin\Release\Newtonsoft.Json.dll
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\bin\Release\Interop.MSScriptControl.dll
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\obj\x86\Release\GroupMsg_v0.1.csprojResolveAssemblyReference.cache
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\obj\x86\Release\GroupMsg_v0._1.Form1.resources
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\obj\x86\Release\GroupMsg_v0._1.InitForm.resources
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\obj\x86\Release\GroupMsg_v0._1.Properties.Resources.resources
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\obj\x86\Release\GroupMsg_v0.1.csproj.GenerateResource.Cache
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\obj\x86\Release\GroupMsg_v0.1.exe
+D:\studymyself\c#_form\GroupMsg_v0.1\GroupMsg_v0.1\obj\x86\Release\GroupMsg_v0.1.pdb

@@ -1,0 +1,42 @@
+﻿<asp:GridView runat="server" BackColor="White" 
+            BorderColor="#E7E7FF" BorderStyle="None" BorderWidth="1px" CellPadding="3" 
+            GridLines="Horizontal">
+            <AlternatingRowStyle BackColor="#F7F7F7" />
+            <FooterStyle BackColor="#B5C7DE" ForeColor="#4A3C8C" />
+            <HeaderStyle BackColor="#4A3C8C" Font-Bold="True" ForeColor="#F7F7F7" />
+            <PagerStyle BackColor="#E7E7FF" ForeColor="#4A3C8C" HorizontalAlign="Right" />
+            <RowStyle BackColor="#E7E7FF" ForeColor="#4A3C8C" />
+            <SelectedRowStyle BackColor="#738A9C" Font-Bold="True" ForeColor="#F7F7F7" />
+            <SortedAscendingCellStyle BackColor="#F4F4FD" />
+            <SortedAscendingHeaderStyle BackColor="#5A4C9D" />
+            <SortedDescendingCellStyle BackColor="#D8D8F0" />
+            <SortedDescendingHeaderStyle BackColor="#3E3277" />
+        </asp:GridView>
+<asp:GridView SkinID="red1" runat="server" CellPadding="4" ForeColor="#333333" 
+            GridLines="None">
+            <AlternatingRowStyle BackColor="White" />
+            <FooterStyle BackColor="#990000" Font-Bold="True" ForeColor="White" />
+            <HeaderStyle BackColor="#990000" Font-Bold="True" ForeColor="White" />
+            <PagerStyle BackColor="#FFCC66" ForeColor="#333333" HorizontalAlign="Center" />
+            <RowStyle BackColor="#FFFBD6" ForeColor="#333333" />
+            <SelectedRowStyle BackColor="#FFCC66" Font-Bold="True" ForeColor="Navy" />
+            <SortedAscendingCellStyle BackColor="#FDF5AC" />
+            <SortedAscendingHeaderStyle BackColor="#4D0000" />
+            <SortedDescendingCellStyle BackColor="#FCF6C0" />
+            <SortedDescendingHeaderStyle BackColor="#820000" />
+        </asp:GridView>
+        <asp:ListBox runat="server" BackColor="#0033CC" Font-Bold="True" 
+            Font-Italic="True" Font-Names="Kozuka Mincho Pro H" Font-Size="Larger" 
+            ForeColor="#CC33FF" Height="119px" Width="467px">
+            <asp:ListItem>负的</asp:ListItem>
+            <asp:ListItem>vbfg</asp:ListItem>
+            <asp:ListItem>vbs</asp:ListItem>
+            <asp:ListItem>vb个</asp:ListItem>
+            <asp:ListItem>vb</asp:ListItem>
+            <asp:ListItem Value="vb ">vb</asp:ListItem>
+            <asp:ListItem Value="vfgf"></asp:ListItem>
+        </asp:ListBox>
+        <asp:Button runat="server" BackColor="Lime" BorderColor="#3333CC" 
+            BorderStyle="Outset" BorderWidth="32px" Font-Bold="True" Font-Italic="True" 
+            Font-Names="Adobe Garamond Pro Bold" Font-Overline="True" Font-Size="Larger" 
+            ForeColor="Red" Text="Button" />

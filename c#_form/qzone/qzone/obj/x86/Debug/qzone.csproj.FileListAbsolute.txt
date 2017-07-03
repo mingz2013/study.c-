@@ -1,0 +1,10 @@
+D:\studymyself\c#_form\qzone\qzone\obj\x86\Debug\Interop.MSScriptControl.dll
+D:\studymyself\c#_form\qzone\qzone\obj\x86\Debug\qzone.csproj.ResolveComReference.cache
+D:\studymyself\c#_form\qzone\qzone\obj\x86\Debug\qzone.Form1.resources
+D:\studymyself\c#_form\qzone\qzone\obj\x86\Debug\qzone.Properties.Resources.resources
+D:\studymyself\c#_form\qzone\qzone\obj\x86\Debug\qzone.csproj.GenerateResource.Cache
+D:\studymyself\c#_form\qzone\qzone\bin\Debug\qzone.exe
+D:\studymyself\c#_form\qzone\qzone\bin\Debug\qzone.pdb
+D:\studymyself\c#_form\qzone\qzone\bin\Debug\Interop.MSScriptControl.dll
+D:\studymyself\c#_form\qzone\qzone\obj\x86\Debug\qzone.exe
+D:\studymyself\c#_form\qzone\qzone\obj\x86\Debug\qzone.pdb

@@ -1,0 +1,7 @@
+D:\studymyself\c#_form\form_02_httpPrc\form_02_httpPrc\obj\x86\Debug\form_02_httpPrc.Properties.Resources.resources
+D:\studymyself\c#_form\form_02_httpPrc\form_02_httpPrc\obj\x86\Debug\form_02_httpPrc.csproj.GenerateResource.Cache
+D:\studymyself\c#_form\form_02_httpPrc\form_02_httpPrc\bin\Debug\form_02_httpPrc.exe
+D:\studymyself\c#_form\form_02_httpPrc\form_02_httpPrc\bin\Debug\form_02_httpPrc.pdb
+D:\studymyself\c#_form\form_02_httpPrc\form_02_httpPrc\obj\x86\Debug\form_02_httpPrc.exe
+D:\studymyself\c#_form\form_02_httpPrc\form_02_httpPrc\obj\x86\Debug\form_02_httpPrc.pdb
+D:\studymyself\c#_form\form_02_httpPrc\form_02_httpPrc\obj\x86\Debug\form_02_httpPrc.Form1.resources

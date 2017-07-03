@@ -1,0 +1,5 @@
+d:\users\明子\documents\visual studio 2010\Projects\迪斯科拉最短路径\迪斯科拉最短路径\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\明子\documents\visual studio 2010\Projects\迪斯科拉最短路径\迪斯科拉最短路径\obj\x86\Debug\迪斯科拉最短路径.Form1.resources
+d:\users\明子\documents\visual studio 2010\Projects\迪斯科拉最短路径\迪斯科拉最短路径\obj\x86\Debug\迪斯科拉最短路径.Properties.Resources.resources
+d:\users\明子\documents\visual studio 2010\Projects\迪斯科拉最短路径\迪斯科拉最短路径\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\明子\documents\visual studio 2010\Projects\迪斯科拉最短路径\迪斯科拉最短路径\obj\x86\Debug\GenerateResource.write.1.tlog

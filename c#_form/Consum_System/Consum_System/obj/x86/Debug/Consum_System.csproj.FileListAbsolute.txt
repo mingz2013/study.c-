@@ -1,0 +1,12 @@
+D:\studymyself\c#_form\Consum_System\Consum_System\bin\Debug\Consum_System.exe
+D:\studymyself\c#_form\Consum_System\Consum_System\bin\Debug\Consum_System.pdb
+D:\studymyself\c#_form\Consum_System\Consum_System\obj\x86\Debug\Consum_System.Properties.Resources.resources
+D:\studymyself\c#_form\Consum_System\Consum_System\obj\x86\Debug\Consum_System.csproj.GenerateResource.Cache
+D:\studymyself\c#_form\Consum_System\Consum_System\obj\x86\Debug\Consum_System.exe
+D:\studymyself\c#_form\Consum_System\Consum_System\obj\x86\Debug\Consum_System.pdb
+D:\studymyself\c#_form\Consum_System\Consum_System\obj\x86\Debug\Consum_System.Form_Login.resources
+D:\studymyself\c#_form\Consum_System\Consum_System\obj\x86\Debug\Consum_System.Form_UserInfo.resources
+D:\studymyself\c#_form\Consum_System\Consum_System\obj\x86\Debug\Consum_System.Form_Register.resources
+D:\studymyself\c#_form\Consum_System\Consum_System\obj\x86\Debug\Consum_System.Form_GoodsInfo.resources
+D:\studymyself\c#_form\Consum_System\Consum_System\obj\x86\Debug\Consum_System.csprojResolveAssemblyReference.cache
+D:\studymyself\c#_form\Consum_System\Consum_System\obj\x86\Debug\Consum_System.Form_Index.resources

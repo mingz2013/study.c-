@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/image/1.gif</ImageUrl>
+    <NavigateUrl>HTMLPage.htm</NavigateUrl>
+    <AlternateText>第1个广告</AlternateText>
+    <Keyword>第1个</Keyword>
+    <Impressions>50</Impressions>
+    <StartDate>1/27/13</StartDate>
+    <EndDate>4/23/13</EndDate>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/image/2.gif</ImageUrl>
+    <NavigateUrl>HTMLPage.htm</NavigateUrl>
+    <AlternateText>第2个广告</AlternateText>
+    <Keyword>第2个</Keyword>
+    <Impressions>50</Impressions>
+    <StartDate>1/27/13</StartDate>
+    <EndDate>4/23/13</EndDate>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/image/3.gif</ImageUrl>
+    <NavigateUrl>HTMLPage.htm</NavigateUrl>
+    <AlternateText>第3个广告</AlternateText>
+    <Keyword>第3个</Keyword>
+    <Impressions>50</Impressions>
+    <StartDate>1/27/13</StartDate>
+    <EndDate>4/23/13</EndDate>
+  </Ad>
+  
+</Advertisements>

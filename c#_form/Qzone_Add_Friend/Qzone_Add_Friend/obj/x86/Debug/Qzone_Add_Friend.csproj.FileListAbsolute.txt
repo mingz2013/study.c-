@@ -1,0 +1,12 @@
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\bin\Debug\Qzone_Add_Friend.exe
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\bin\Debug\Qzone_Add_Friend.pdb
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\bin\Debug\Interop.MSScriptControl.dll
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\obj\x86\Debug\Interop.MSScriptControl.dll
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\obj\x86\Debug\Qzone_Add_Friend.csproj.ResolveComReference.cache
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\obj\x86\Debug\Qzone_Add_Friend.Form1.resources
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\obj\x86\Debug\Qzone_Add_Friend.Properties.Resources.resources
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\obj\x86\Debug\Qzone_Add_Friend.csproj.GenerateResource.Cache
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\obj\x86\Debug\Qzone_Add_Friend.exe
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\obj\x86\Debug\Qzone_Add_Friend.pdb
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\bin\Debug\Newtonsoft.Json.dll
+D:\studymyself\c#_form\Qzone_Add_Friend\Qzone_Add_Friend\obj\x86\Debug\Qzone_Add_Friend.csprojResolveAssemblyReference.cache

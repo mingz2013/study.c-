@@ -1,0 +1,7 @@
+D:\studymyself\c#_form\setProxy\setProxy\bin\Debug\setProxy.exe
+D:\studymyself\c#_form\setProxy\setProxy\bin\Debug\setProxy.pdb
+D:\studymyself\c#_form\setProxy\setProxy\obj\x86\Debug\setProxy.Form1.resources
+D:\studymyself\c#_form\setProxy\setProxy\obj\x86\Debug\setProxy.Properties.Resources.resources
+D:\studymyself\c#_form\setProxy\setProxy\obj\x86\Debug\setProxy.csproj.GenerateResource.Cache
+D:\studymyself\c#_form\setProxy\setProxy\obj\x86\Debug\setProxy.exe
+D:\studymyself\c#_form\setProxy\setProxy\obj\x86\Debug\setProxy.pdb

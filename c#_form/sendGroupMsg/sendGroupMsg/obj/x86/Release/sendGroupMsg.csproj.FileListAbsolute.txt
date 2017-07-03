@@ -1,0 +1,13 @@
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\obj\x86\Release\Interop.MSScriptControl.dll
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\obj\x86\Release\sendGroupMsg.csproj.ResolveComReference.cache
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\bin\Release\sendGroupMsg.exe
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\bin\Release\sendGroupMsg.pdb
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\bin\Release\Newtonsoft.Json.dll
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\bin\Release\Interop.MSScriptControl.dll
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\obj\x86\Release\sendGroupMsg.csprojResolveAssemblyReference.cache
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\obj\x86\Release\sendGroupMsg.Form1.resources
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\obj\x86\Release\sendGroupMsg.InitForm.resources
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\obj\x86\Release\sendGroupMsg.Properties.Resources.resources
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\obj\x86\Release\sendGroupMsg.csproj.GenerateResource.Cache
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\obj\x86\Release\sendGroupMsg.exe
+D:\studymyself\c#_form\sendGroupMsg\sendGroupMsg\obj\x86\Release\sendGroupMsg.pdb

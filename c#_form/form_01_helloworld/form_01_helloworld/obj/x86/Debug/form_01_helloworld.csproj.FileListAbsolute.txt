@@ -1,0 +1,7 @@
+D:\studymyself\c#_form\form_01_helloworld\form_01_helloworld\bin\Debug\form_01_helloworld.exe
+D:\studymyself\c#_form\form_01_helloworld\form_01_helloworld\bin\Debug\form_01_helloworld.pdb
+D:\studymyself\c#_form\form_01_helloworld\form_01_helloworld\obj\x86\Debug\form_01_helloworld.Form1.resources
+D:\studymyself\c#_form\form_01_helloworld\form_01_helloworld\obj\x86\Debug\form_01_helloworld.Properties.Resources.resources
+D:\studymyself\c#_form\form_01_helloworld\form_01_helloworld\obj\x86\Debug\form_01_helloworld.csproj.GenerateResource.Cache
+D:\studymyself\c#_form\form_01_helloworld\form_01_helloworld\obj\x86\Debug\form_01_helloworld.exe
+D:\studymyself\c#_form\form_01_helloworld\form_01_helloworld\obj\x86\Debug\form_01_helloworld.pdb
